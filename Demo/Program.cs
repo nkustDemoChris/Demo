@@ -12,6 +12,7 @@ namespace Demo
         {
             Console.Write("Feature2 ");
             Console.Write("Feature1 ");
+            Console.Write("Feature4 ");
         }
     }
 }
