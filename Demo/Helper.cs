@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo
 {
-    class Program
+    class Helper
     {
-        static void Main(string[] args)
-        {
-            Console.Write("Feature1 ");
-        }
     }
 }
